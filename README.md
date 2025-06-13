@@ -1,0 +1,2 @@
+# Craft.gg
+Minecraft server
