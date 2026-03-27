@@ -1,2 +1,2 @@
 # &5Craft.gg
-Minecraft server
+Twój serwer minecraft
