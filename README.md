@@ -1,2 +1,2 @@
-# Craft.gg
+# &7Craft.gg
 Minecraft server
